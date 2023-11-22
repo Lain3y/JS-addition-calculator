@@ -25,6 +25,7 @@ npm install
 1. Open index.html in your browser.
 2. Enter two numbers in the input fields.
 3. Click the "Add" button to see the result.
+4. Click "Clear" button to reset the calculator.
 
 ## Development
 This project is built using HTML, CSS, and JavaScript.
