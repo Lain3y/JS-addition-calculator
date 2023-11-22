@@ -16,6 +16,10 @@ function additionfunction() {
     }
 }
 
-
-
-  
+//I added a function to clear the form so user doesn't have to refresh the page to make a new calculation.
+function clearForm() {
+    document.getElementById('firstnumber').value = '';
+    document.getElementById('secondnumber').value = '';
+    document.getElementById('resultarea').innerHTML = 'Result: ';
+   
+}
