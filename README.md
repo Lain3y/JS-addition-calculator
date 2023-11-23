@@ -38,3 +38,7 @@ npm install
 ## Development
 This project is built using HTML, CSS, and JavaScript.
 Feel free to explore the code and suggest improvements!
+
+## Acknowledgments
+This project was developed as part of the Code First Girls coursework.
+Thanks to [Code First Girls](https://codefirstgirls.com/) for providing valuable learning opportunities.
