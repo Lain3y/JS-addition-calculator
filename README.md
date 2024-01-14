@@ -1,6 +1,11 @@
 # JavaScript Addition Calculator
 Welcome to my JavaScript Addition Calculator project! This simple calculator is designed to perform addition operations. It's a part of my coursework for the Code First Girls degree.
 
+
+![jscalc](https://github.com/Lain3y/JS-addition-calculator/assets/132710326/19f34a07-bf85-4dc8-b027-0c9edf698e9e)
+
+
+
 ## Features
 Addition Only: This calculator exclusively handles addition operations, making it beginner-friendly and easy to use.
 
