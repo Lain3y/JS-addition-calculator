@@ -2,12 +2,13 @@
 Welcome to my JavaScript Addition Calculator project! This simple calculator is designed to perform addition operations. It's a part of my coursework for the Code First Girls degree.
 
 
-![jscalc](https://github.com/Lain3y/JS-addition-calculator/assets/132710326/19f34a07-bf85-4dc8-b027-0c9edf698e9e)
+![image](https://github.com/Lain3y/JS-addition-calculator/assets/132710326/0f5ab4a0-5626-451e-b591-ece6a9bdb9a5)
+
 
 
 
 ## Features
-Addition Only: This calculator exclusively handles addition operations, making it beginner-friendly and easy to use.
+Addition Only: This calculator exclusively handles addition operations, making it beginner-friendly and easy to recreate.
 
 ## Getting Started
 ### Prerequisites
@@ -31,14 +32,6 @@ npm install
 2. Enter two numbers in the input fields.
 3. Click the "Add" button to see the result.
 4. Click "Clear" button to reset the calculator.
-
-## View Project in Action
-#### Additional files have been provided which demonstrate my project working on local tunnel, there are screenshots and a video:
-
-| File    | Link |
-| -------- | ------- |
-| Screenshots  | [View here](https://www.canva.com/design/DAF0-8gglAQ/XwTUSbKwH4oxWb9aJ05fKA/view?utm_content=DAF0-8gglAQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)    |
-| Video |  [View here](https://www.canva.com/design/DAF0-wQbnTE/JAjGI8qESU77b4lvToiN_g/watch?utm_content=DAF0-wQbnTE&utm_campaign=designshare&utm_medium=link&utm_source=editor)   |
 
 ## Development
 This project is built using HTML, CSS, and JavaScript.
