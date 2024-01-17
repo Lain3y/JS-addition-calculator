@@ -18,10 +18,10 @@ Addition Only: This calculator exclusively handles addition operations, making i
 ## Installation
 
 #### Clone the repository:
-git clone https://github.com/your-username/js-addition-calculator.git
+git clone https://github.com/Lain3y/JS-addition-calculator.git
 
 #### Navigate to the project directory:
-cd js-addition-calculator
+cd JS-addition-calculator
 
 #### Install dependencies:
 npm install
